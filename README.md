@@ -1,0 +1,1 @@
+manage instances based on recurring schedules and scaling rules triggered by specified metrics like memory utilization and CPU usage. The adjustment in instances is made to maintain the desired threshold values for these metrics.
